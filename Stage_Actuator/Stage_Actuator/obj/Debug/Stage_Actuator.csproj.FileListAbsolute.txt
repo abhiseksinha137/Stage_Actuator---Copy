@@ -1,0 +1,24 @@
+E:\CSharp\Stage_Actuator\Stage_Actuator\Stage_Actuator\bin\Debug\Stage_Actuator.exe.config
+E:\CSharp\Stage_Actuator\Stage_Actuator\Stage_Actuator\bin\Debug\Stage_Actuator.exe
+E:\CSharp\Stage_Actuator\Stage_Actuator\Stage_Actuator\bin\Debug\Stage_Actuator.pdb
+E:\CSharp\Stage_Actuator\Stage_Actuator\Stage_Actuator\bin\Debug\customControl.dll
+E:\CSharp\Stage_Actuator\Stage_Actuator\Stage_Actuator\bin\Debug\customControl.pdb
+E:\CSharp\Stage_Actuator\Stage_Actuator\Stage_Actuator\obj\Debug\Stage_Actuator.Form1.resources
+E:\CSharp\Stage_Actuator\Stage_Actuator\Stage_Actuator\obj\Debug\Stage_Actuator.Properties.Resources.resources
+E:\CSharp\Stage_Actuator\Stage_Actuator\Stage_Actuator\obj\Debug\Stage_Actuator.csproj.GenerateResource.Cache
+E:\CSharp\Stage_Actuator\Stage_Actuator\Stage_Actuator\obj\Debug\Stage_Actuator.exe
+E:\CSharp\Stage_Actuator\Stage_Actuator\Stage_Actuator\obj\Debug\Stage_Actuator.pdb
+E:\CSharp\Stage_Actuator\Stage_Actuator\Stage_Actuator\obj\Debug\Stage_Actuator.formBaudrate.resources
+E:\CSharp\Stage_Actuator\Stage_Actuator\Stage_Actuator\obj\Debug\Stage_Actuator.csprojResolveAssemblyReference.cache
+E:\CSharp\Stage_Actuator - Copy\Stage_Actuator\Stage_Actuator\bin\Debug\Stage_Actuator.exe.config
+E:\CSharp\Stage_Actuator - Copy\Stage_Actuator\Stage_Actuator\obj\Debug\Stage_Actuator.exe
+E:\CSharp\Stage_Actuator - Copy\Stage_Actuator\Stage_Actuator\obj\Debug\Stage_Actuator.pdb
+E:\CSharp\Stage_Actuator - Copy\Stage_Actuator\Stage_Actuator\bin\Debug\Stage_Actuator.exe
+E:\CSharp\Stage_Actuator - Copy\Stage_Actuator\Stage_Actuator\bin\Debug\Stage_Actuator.pdb
+E:\CSharp\Stage_Actuator - Copy\Stage_Actuator\Stage_Actuator\bin\Debug\customControl.dll
+E:\CSharp\Stage_Actuator - Copy\Stage_Actuator\Stage_Actuator\bin\Debug\customControl.pdb
+E:\CSharp\Stage_Actuator - Copy\Stage_Actuator\Stage_Actuator\obj\Debug\Stage_Actuator.csprojResolveAssemblyReference.cache
+E:\CSharp\Stage_Actuator - Copy\Stage_Actuator\Stage_Actuator\obj\Debug\Stage_Actuator.Form1.resources
+E:\CSharp\Stage_Actuator - Copy\Stage_Actuator\Stage_Actuator\obj\Debug\Stage_Actuator.formBaudrate.resources
+E:\CSharp\Stage_Actuator - Copy\Stage_Actuator\Stage_Actuator\obj\Debug\Stage_Actuator.Properties.Resources.resources
+E:\CSharp\Stage_Actuator - Copy\Stage_Actuator\Stage_Actuator\obj\Debug\Stage_Actuator.csproj.GenerateResource.Cache
